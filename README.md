@@ -6,6 +6,7 @@ NOTE: This script runs in BASH and therefore basically on any OS but is only com
 <br>
 > Step 1) Clone this repository into your home directory using this command `git clone https://github.com/Pixelated-Studios/Ruby-Learning-Helper.git`
 <br>
+
 > Step 2) Move all the scripts into the directory `~/.bin` with this command: 
 (if you do not have a `~/.bin` directory, make one now by running `mkdir ~/.bin`)
 ```
