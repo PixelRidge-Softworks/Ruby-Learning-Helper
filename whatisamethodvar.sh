@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Variables store data and can only be called by the method that creates   them."
+echo "Method Variables store data and can only be called by the method that creates   them."
 sleep 1
 for ((x = 0; x < 20; x++)); do
 printf %s -
@@ -36,19 +36,19 @@ read -r -p "Would you like an Example (y/n): " ans
 echo
 if [ $ans = "y" ]
 then
-echo "Var declare Example 1: banana = yellow2"
+echo "Method Var declare Example 1: banana = yellow2"
 echo
 sleep 1
-echo "Var Example 2: banana2 = y3110w"
+echo "Method Var declare Example 2: banana2 = y3110w"
 echo
 sleep 1
-echo "Var Example 3: banana2.6 = y3.l.l.0w"
+echo "Method Var declare Example 3: banana2.6 = y3.l.l.0w"
 echo
 sleep 1
 echo "Class Var usage Example: Class@@classvar@@secondclassvar"
 echo
 sleep 1
-echo "Instance Var usage Example: Constant/var@instancevar@secondinstancevar"
+echo "Instance Var usage Example: (it's come to my attention this may be incorrect, will fix soon) Constant/var@instancevar@secondinstancevar"
 echo
 exit 0
 else
