@@ -1,0 +1,8 @@
+The following is an example of a Ruby Block with Arguments
+
+loop do
+  |var1, var2, var3|
+  print "Much better."
+  print "Ah.  More space!"
+  print "My back was killin' me in that tiny space"
+end

@@ -1,0 +1,6 @@
+The following is a Ruby Block without Arguments
+
+var.method {
+  print "this is a block that prints this message then prints a variable"
+  puts #{var1}
+}
