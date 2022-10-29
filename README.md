@@ -2,7 +2,7 @@
 
 This script set currently lacks definitions for Classes. It's also lacking examples of functioning methods and a few other things. Feel free to report missing definitions in [issues](https://github.com/Pixelated-Studios/Ruby-Learning-Helper/issues) <br> Those *may* be added in the future if people end up using this.
 
-Also please note, this script is incredibly simple. All it does is help define things and give examples for how to use certain things within Ruby. This isn't a comprehensive guide, more of a cheatsheet. 
+Also please note, this script is incredibly simple. All it does is help define things and give examples for how to use certain things within Ruby. These are **NOT** comprehensive guides, more like cheatsheets and I wanted to be able to view them from anywhere in my terminal with a single command. 
 
 I'll accept any PRs if anyone wants to cleanup my code or automate the setup process. But because I designed this for my *own personal use* I'll not being going to that length. Though I will maintain it if someone else wants to do it.
 
